@@ -18,6 +18,7 @@ public class Hhh {
         // TODO code application logic here
         int colum=8;
         System.out.println(colum);
+        System.out.println("ff");
     }
     
 }
